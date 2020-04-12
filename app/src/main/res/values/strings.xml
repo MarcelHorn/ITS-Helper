@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ITS-Helper</string>
+    <string name="bevorzugte_nutzeranzahl">Bevorzugte Nutzeranzahl</string>
+    <string name="h_chstpreis_euro_nutzer">Höchstpreis Euro/Nutzer</string>
+    <string-array name="Types">
+        <item>Kundenorientiert (Help-Desk)</item>
+        <item>Softwarelösung (Bug-Tracker)</item>
+        <item>Projektverwaltung</item>
+    </string-array>
+    <string-array name="functions">
+        <item>Preis</item>
+        <item>Daten</item>
+        <item>Test</item>
+    </string-array>
+
+</resources>
